@@ -1,0 +1,11 @@
+framework module PBFrameworkAnimation {
+  umbrella header "PBFrameworkAnimation.h"
+
+  export *
+  module * { export * }
+}
+
+module PBFrameworkAnimation.Swift {
+    header "PBFrameworkAnimation-Swift.h"
+    requires objc
+}
