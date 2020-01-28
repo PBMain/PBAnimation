@@ -258,6 +258,25 @@ SWIFT_CLASS("_TtC20PBFrameworkAnimation14AnimatedSwitch")
 - (void)endTrackingWithTouch:(UITouch * _Nullable)touch withEvent:(UIEvent * _Nullable)event;
 @end
 
+@protocol CAAction;
+
+/// The base animation container.
+/// This layer holds a single composition container and allows for animation of
+/// the currentFrame property.
+SWIFT_CLASS("_TtC20PBFrameworkAnimation18AnimationContainer")
+@interface AnimationContainer : CALayer
+/// For CAAnimation Use
+- (nonnull instancetype)initWithLayer:(id _Nonnull)layer OBJC_DESIGNATED_INITIALIZER;
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)aDecoder SWIFT_UNAVAILABLE;
++ (BOOL)needsDisplayForKey:(NSString * _Nonnull)key SWIFT_WARN_UNUSED_RESULT;
+- (id <CAAction> _Nullable)actionForKey:(NSString * _Nonnull)event SWIFT_WARN_UNUSED_RESULT;
+- (void)display;
+- (nonnull instancetype)init SWIFT_UNAVAILABLE;
++ (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
+@end
+
+
+
 
 /// A view that can be added to a keypath of an AnimationView
 SWIFT_CLASS("_TtC20PBFrameworkAnimation16AnimationSubview")
@@ -614,6 +633,25 @@ SWIFT_CLASS("_TtC20PBFrameworkAnimation14AnimatedSwitch")
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)aDecoder OBJC_DESIGNATED_INITIALIZER;
 - (void)endTrackingWithTouch:(UITouch * _Nullable)touch withEvent:(UIEvent * _Nullable)event;
 @end
+
+@protocol CAAction;
+
+/// The base animation container.
+/// This layer holds a single composition container and allows for animation of
+/// the currentFrame property.
+SWIFT_CLASS("_TtC20PBFrameworkAnimation18AnimationContainer")
+@interface AnimationContainer : CALayer
+/// For CAAnimation Use
+- (nonnull instancetype)initWithLayer:(id _Nonnull)layer OBJC_DESIGNATED_INITIALIZER;
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)aDecoder SWIFT_UNAVAILABLE;
++ (BOOL)needsDisplayForKey:(NSString * _Nonnull)key SWIFT_WARN_UNUSED_RESULT;
+- (id <CAAction> _Nullable)actionForKey:(NSString * _Nonnull)event SWIFT_WARN_UNUSED_RESULT;
+- (void)display;
+- (nonnull instancetype)init SWIFT_UNAVAILABLE;
++ (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
+@end
+
+
 
 
 /// A view that can be added to a keypath of an AnimationView
@@ -976,6 +1014,25 @@ SWIFT_CLASS("_TtC20PBFrameworkAnimation14AnimatedSwitch")
 - (void)endTrackingWithTouch:(UITouch * _Nullable)touch withEvent:(UIEvent * _Nullable)event;
 @end
 
+@protocol CAAction;
+
+/// The base animation container.
+/// This layer holds a single composition container and allows for animation of
+/// the currentFrame property.
+SWIFT_CLASS("_TtC20PBFrameworkAnimation18AnimationContainer")
+@interface AnimationContainer : CALayer
+/// For CAAnimation Use
+- (nonnull instancetype)initWithLayer:(id _Nonnull)layer OBJC_DESIGNATED_INITIALIZER;
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)aDecoder SWIFT_UNAVAILABLE;
++ (BOOL)needsDisplayForKey:(NSString * _Nonnull)key SWIFT_WARN_UNUSED_RESULT;
+- (id <CAAction> _Nullable)actionForKey:(NSString * _Nonnull)event SWIFT_WARN_UNUSED_RESULT;
+- (void)display;
+- (nonnull instancetype)init SWIFT_UNAVAILABLE;
++ (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
+@end
+
+
+
 
 /// A view that can be added to a keypath of an AnimationView
 SWIFT_CLASS("_TtC20PBFrameworkAnimation16AnimationSubview")
@@ -1332,6 +1389,25 @@ SWIFT_CLASS("_TtC20PBFrameworkAnimation14AnimatedSwitch")
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)aDecoder OBJC_DESIGNATED_INITIALIZER;
 - (void)endTrackingWithTouch:(UITouch * _Nullable)touch withEvent:(UIEvent * _Nullable)event;
 @end
+
+@protocol CAAction;
+
+/// The base animation container.
+/// This layer holds a single composition container and allows for animation of
+/// the currentFrame property.
+SWIFT_CLASS("_TtC20PBFrameworkAnimation18AnimationContainer")
+@interface AnimationContainer : CALayer
+/// For CAAnimation Use
+- (nonnull instancetype)initWithLayer:(id _Nonnull)layer OBJC_DESIGNATED_INITIALIZER;
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)aDecoder SWIFT_UNAVAILABLE;
++ (BOOL)needsDisplayForKey:(NSString * _Nonnull)key SWIFT_WARN_UNUSED_RESULT;
+- (id <CAAction> _Nullable)actionForKey:(NSString * _Nonnull)event SWIFT_WARN_UNUSED_RESULT;
+- (void)display;
+- (nonnull instancetype)init SWIFT_UNAVAILABLE;
++ (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
+@end
+
+
 
 
 /// A view that can be added to a keypath of an AnimationView
