@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'PBAnimation'
-  s.version          = '1.6.0.0'
+  s.version          = '1.6.0.1'
   s.summary          = 'For building animation objects from BodyMovin JSON.'
 
   s.description      = <<-DESC
@@ -15,5 +15,8 @@ For building animation objects from BodyMovin JSON. Used for older templates in 
   s.ios.deployment_target = '9.3'
   
   s.ios.vendored_frameworks = 'PBFrameworkAnimation.framework'
+
+  s.pod_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
+  s.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
   
 end
