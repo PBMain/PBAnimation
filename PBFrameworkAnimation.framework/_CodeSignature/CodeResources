@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/PBFrameworkAnimation-Swift.h</key>
 		<data>
-		3TK42AtLb3ELTUS/APv7bccPDH4=
+		F9FoA/+WoSaMH8Xp58waA/iO3JE=
 		</data>
 		<key>Headers/PBFrameworkAnimation.h</key>
 		<data>
@@ -14,67 +14,67 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		fg+vqaLQHmSbytJLGxPWu0Nbqj4=
+		7bPek+Y+ngXYbtoRy/mXHLqenRc=
 		</data>
 		<key>Modules/PBFrameworkAnimation.swiftmodule/Project/arm.swiftsourceinfo</key>
 		<data>
-		/RD2Fer/9dg4jsOzBVz7r/Bk3ig=
+		N7+fQLZHs1T2RuMCumqeVoyIa90=
 		</data>
 		<key>Modules/PBFrameworkAnimation.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		dnFmE8wcCM2VzcI7KB5SmjakXp0=
+		TT0pkrATTk3ilkOiC5TlGPGuw98=
 		</data>
 		<key>Modules/PBFrameworkAnimation.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<data>
-		dnFmE8wcCM2VzcI7KB5SmjakXp0=
+		TT0pkrATTk3ilkOiC5TlGPGuw98=
 		</data>
 		<key>Modules/PBFrameworkAnimation.swiftmodule/Project/armv7-apple-ios.swiftsourceinfo</key>
 		<data>
-		/RD2Fer/9dg4jsOzBVz7r/Bk3ig=
+		N7+fQLZHs1T2RuMCumqeVoyIa90=
 		</data>
 		<key>Modules/PBFrameworkAnimation.swiftmodule/Project/armv7.swiftsourceinfo</key>
 		<data>
-		/RD2Fer/9dg4jsOzBVz7r/Bk3ig=
+		N7+fQLZHs1T2RuMCumqeVoyIa90=
 		</data>
 		<key>Modules/PBFrameworkAnimation.swiftmodule/arm.swiftdoc</key>
 		<data>
-		npPTkrvWn4IvBWtAubmzhg30fy4=
+		Os9exsamrnYTmdbG0D6QMdI6H4A=
 		</data>
 		<key>Modules/PBFrameworkAnimation.swiftmodule/arm.swiftmodule</key>
 		<data>
-		HatmLvaqssHTi6D9lr4pvBQVY1I=
+		ODMfXRL1XastpoVOwfa037L2Tto=
 		</data>
 		<key>Modules/PBFrameworkAnimation.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		2i6CBFQuNd+bkx44fmNQy37TJuA=
+		NSvXyfrW9TzcMGTpLDOvGmI+oyY=
 		</data>
 		<key>Modules/PBFrameworkAnimation.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		F7aEmYcRBBd0x51uJLeiuBC5uHk=
+		0S1NE2/jagc9spjntt/JhNIECVo=
 		</data>
 		<key>Modules/PBFrameworkAnimation.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		2i6CBFQuNd+bkx44fmNQy37TJuA=
+		NSvXyfrW9TzcMGTpLDOvGmI+oyY=
 		</data>
 		<key>Modules/PBFrameworkAnimation.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		F7aEmYcRBBd0x51uJLeiuBC5uHk=
+		0S1NE2/jagc9spjntt/JhNIECVo=
 		</data>
 		<key>Modules/PBFrameworkAnimation.swiftmodule/armv7-apple-ios.swiftdoc</key>
 		<data>
-		npPTkrvWn4IvBWtAubmzhg30fy4=
+		Os9exsamrnYTmdbG0D6QMdI6H4A=
 		</data>
 		<key>Modules/PBFrameworkAnimation.swiftmodule/armv7-apple-ios.swiftmodule</key>
 		<data>
-		HatmLvaqssHTi6D9lr4pvBQVY1I=
+		ODMfXRL1XastpoVOwfa037L2Tto=
 		</data>
 		<key>Modules/PBFrameworkAnimation.swiftmodule/armv7.swiftdoc</key>
 		<data>
-		npPTkrvWn4IvBWtAubmzhg30fy4=
+		Os9exsamrnYTmdbG0D6QMdI6H4A=
 		</data>
 		<key>Modules/PBFrameworkAnimation.swiftmodule/armv7.swiftmodule</key>
 		<data>
-		HatmLvaqssHTi6D9lr4pvBQVY1I=
+		ODMfXRL1XastpoVOwfa037L2Tto=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -87,11 +87,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			3TK42AtLb3ELTUS/APv7bccPDH4=
+			F9FoA/+WoSaMH8Xp58waA/iO3JE=
 			</data>
 			<key>hash2</key>
 			<data>
-			1rKKVBgHaM5s0JOMkEV2Bn4UfX3fx29gfCbOi5SMdtk=
+			RbopdH/QvaSLUC6WQPN8mCbAF8uL3JvCi9cGdkh3bUY=
 			</data>
 		</dict>
 		<key>Headers/PBFrameworkAnimation.h</key>
@@ -109,165 +109,165 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			/RD2Fer/9dg4jsOzBVz7r/Bk3ig=
+			N7+fQLZHs1T2RuMCumqeVoyIa90=
 			</data>
 			<key>hash2</key>
 			<data>
-			mfsQIKIOGwuoXpoiD2kJDktcusdQG0ppZ/XysSqGbdw=
+			2qWYKel3lFSeZmxA9eUw9RVB8Ea1QhLrjFeLuCFjH2o=
 			</data>
 		</dict>
 		<key>Modules/PBFrameworkAnimation.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			dnFmE8wcCM2VzcI7KB5SmjakXp0=
+			TT0pkrATTk3ilkOiC5TlGPGuw98=
 			</data>
 			<key>hash2</key>
 			<data>
-			1969xQgLfkKEdCZvSfk4pN486trgBEHclmfkirQnB6Q=
+			xat1aosKaQIHc4v1oKThnskJLNNpZei5QSwZQkKMKmc=
 			</data>
 		</dict>
 		<key>Modules/PBFrameworkAnimation.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			dnFmE8wcCM2VzcI7KB5SmjakXp0=
+			TT0pkrATTk3ilkOiC5TlGPGuw98=
 			</data>
 			<key>hash2</key>
 			<data>
-			1969xQgLfkKEdCZvSfk4pN486trgBEHclmfkirQnB6Q=
+			xat1aosKaQIHc4v1oKThnskJLNNpZei5QSwZQkKMKmc=
 			</data>
 		</dict>
 		<key>Modules/PBFrameworkAnimation.swiftmodule/Project/armv7-apple-ios.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			/RD2Fer/9dg4jsOzBVz7r/Bk3ig=
+			N7+fQLZHs1T2RuMCumqeVoyIa90=
 			</data>
 			<key>hash2</key>
 			<data>
-			mfsQIKIOGwuoXpoiD2kJDktcusdQG0ppZ/XysSqGbdw=
+			2qWYKel3lFSeZmxA9eUw9RVB8Ea1QhLrjFeLuCFjH2o=
 			</data>
 		</dict>
 		<key>Modules/PBFrameworkAnimation.swiftmodule/Project/armv7.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			/RD2Fer/9dg4jsOzBVz7r/Bk3ig=
+			N7+fQLZHs1T2RuMCumqeVoyIa90=
 			</data>
 			<key>hash2</key>
 			<data>
-			mfsQIKIOGwuoXpoiD2kJDktcusdQG0ppZ/XysSqGbdw=
+			2qWYKel3lFSeZmxA9eUw9RVB8Ea1QhLrjFeLuCFjH2o=
 			</data>
 		</dict>
 		<key>Modules/PBFrameworkAnimation.swiftmodule/arm.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			npPTkrvWn4IvBWtAubmzhg30fy4=
+			Os9exsamrnYTmdbG0D6QMdI6H4A=
 			</data>
 			<key>hash2</key>
 			<data>
-			0sRM8vsUY8Ig2oKmAyC/hMIhju1TZ+Q/xqbCYk1CMXg=
+			5zvW6vQTypqSpvqXsP/zgmwncfb0Q3mlsE6IJtOueRs=
 			</data>
 		</dict>
 		<key>Modules/PBFrameworkAnimation.swiftmodule/arm.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			HatmLvaqssHTi6D9lr4pvBQVY1I=
+			ODMfXRL1XastpoVOwfa037L2Tto=
 			</data>
 			<key>hash2</key>
 			<data>
-			vYSqq54OmumoE71Bp/1vLOZUh+iKAGzkpIE2Mmh8/3I=
+			RMSJASmso/+U7ScUbyp01ESzCmRC+mLznAoG2TRWpN8=
 			</data>
 		</dict>
 		<key>Modules/PBFrameworkAnimation.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			2i6CBFQuNd+bkx44fmNQy37TJuA=
+			NSvXyfrW9TzcMGTpLDOvGmI+oyY=
 			</data>
 			<key>hash2</key>
 			<data>
-			mLOnkc54vo/rpFaIVaX1GPBFgWWOoGh7u8x9Tt2KKLc=
+			l5UtGfFpn7CkUZglimjX2GWO4wwxK+E25Uzu+glLSTg=
 			</data>
 		</dict>
 		<key>Modules/PBFrameworkAnimation.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			F7aEmYcRBBd0x51uJLeiuBC5uHk=
+			0S1NE2/jagc9spjntt/JhNIECVo=
 			</data>
 			<key>hash2</key>
 			<data>
-			1fUhtnWFESfoWnBDXWfHrooIzX9qhvSHGWp37FSkrZQ=
+			MTby7mhecAZOBBS8NuY65QEwlsvpjPN4LVaKHYXFfU8=
 			</data>
 		</dict>
 		<key>Modules/PBFrameworkAnimation.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			2i6CBFQuNd+bkx44fmNQy37TJuA=
+			NSvXyfrW9TzcMGTpLDOvGmI+oyY=
 			</data>
 			<key>hash2</key>
 			<data>
-			mLOnkc54vo/rpFaIVaX1GPBFgWWOoGh7u8x9Tt2KKLc=
+			l5UtGfFpn7CkUZglimjX2GWO4wwxK+E25Uzu+glLSTg=
 			</data>
 		</dict>
 		<key>Modules/PBFrameworkAnimation.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			F7aEmYcRBBd0x51uJLeiuBC5uHk=
+			0S1NE2/jagc9spjntt/JhNIECVo=
 			</data>
 			<key>hash2</key>
 			<data>
-			1fUhtnWFESfoWnBDXWfHrooIzX9qhvSHGWp37FSkrZQ=
+			MTby7mhecAZOBBS8NuY65QEwlsvpjPN4LVaKHYXFfU8=
 			</data>
 		</dict>
 		<key>Modules/PBFrameworkAnimation.swiftmodule/armv7-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			npPTkrvWn4IvBWtAubmzhg30fy4=
+			Os9exsamrnYTmdbG0D6QMdI6H4A=
 			</data>
 			<key>hash2</key>
 			<data>
-			0sRM8vsUY8Ig2oKmAyC/hMIhju1TZ+Q/xqbCYk1CMXg=
+			5zvW6vQTypqSpvqXsP/zgmwncfb0Q3mlsE6IJtOueRs=
 			</data>
 		</dict>
 		<key>Modules/PBFrameworkAnimation.swiftmodule/armv7-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			HatmLvaqssHTi6D9lr4pvBQVY1I=
+			ODMfXRL1XastpoVOwfa037L2Tto=
 			</data>
 			<key>hash2</key>
 			<data>
-			vYSqq54OmumoE71Bp/1vLOZUh+iKAGzkpIE2Mmh8/3I=
+			RMSJASmso/+U7ScUbyp01ESzCmRC+mLznAoG2TRWpN8=
 			</data>
 		</dict>
 		<key>Modules/PBFrameworkAnimation.swiftmodule/armv7.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			npPTkrvWn4IvBWtAubmzhg30fy4=
+			Os9exsamrnYTmdbG0D6QMdI6H4A=
 			</data>
 			<key>hash2</key>
 			<data>
-			0sRM8vsUY8Ig2oKmAyC/hMIhju1TZ+Q/xqbCYk1CMXg=
+			5zvW6vQTypqSpvqXsP/zgmwncfb0Q3mlsE6IJtOueRs=
 			</data>
 		</dict>
 		<key>Modules/PBFrameworkAnimation.swiftmodule/armv7.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			HatmLvaqssHTi6D9lr4pvBQVY1I=
+			ODMfXRL1XastpoVOwfa037L2Tto=
 			</data>
 			<key>hash2</key>
 			<data>
-			vYSqq54OmumoE71Bp/1vLOZUh+iKAGzkpIE2Mmh8/3I=
+			RMSJASmso/+U7ScUbyp01ESzCmRC+mLznAoG2TRWpN8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

@@ -1,10 +1,10 @@
 Pod::Spec.new do |s|
   s.name             = 'PBAnimation'
-  s.version          = '1.5.4.2'
+  s.version          = '1.6.0.0'
   s.summary          = 'For building animation objects from BodyMovin JSON.'
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+For building animation objects from BodyMovin JSON. Used for older templates in the Photo Butler template library.
                        DESC
 
   s.homepage         = 'https://github.com/PBMain'
