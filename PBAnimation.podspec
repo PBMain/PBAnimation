@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'PBAnimation'
-  s.version          = '1.6.1.0'
+  s.version          = '1.6.1.1'
   s.summary          = 'For building animation objects from BodyMovin JSON.'
 
   s.description      = <<-DESC
